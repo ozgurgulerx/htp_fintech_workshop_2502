@@ -24,7 +24,6 @@ This workshop consists of two parts:
 
 🔹 [Part 2: Emerging FinTech GenAI Use Cases](part2.md) – We’ll dive into FinTech-specific applications...
 
-
 By the end of this workshop, you’ll not only have implemented practical AI solutions but also gained a deep understanding of how to build scalable AI applications on Azure. Whether you're a developer, data scientist, or financial services professional, this workshop will empower you with the tools to drive innovation in FinTech using AI. 🚀
 
 
