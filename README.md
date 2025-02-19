@@ -14,8 +14,15 @@
 - [Contact](#contact)
 
 ## Introduction
-### Part 1: 
-### Part 2:
+This workshop is designed to equip you with the skills and knowledge needed to build AI-driven applications for real-world FinTech use cases. Whether you’re looking to enhance customer experience, optimize operations, or develop intelligent financial solutions, this hands-on session will guide you through the process of leveraging AI on Azure.
+
+This workshop consists of two parts:
+
+🔹 Part 1: AI-Driven Customer Support – We’ll build a fully functional AI-powered customer support system using OpenAI’s real-time APIs, database integrations, and other key components. This will give attendees hands-on experience in implementing conversational AI solutions that enhance customer interactions.
+
+🔹 Part 2: FinTech AI Use Cases – We’ll dive into FinTech-specific applications...
+
+By the end of this workshop, you’ll not only have implemented practical AI solutions but also gained a deep understanding of how to build scalable AI applications on Azure. Whether you're a developer, data scientist, or financial services professional, this workshop will empower you with the tools to drive innovation in FinTech using AI. 🚀
 
 
 ## Open-Issues
