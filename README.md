@@ -23,6 +23,6 @@ If you encounter any issues or have any questions, please feel free to open an i
 [![Open Issues](https://img.shields.io/github/issues/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues)
 
 ## Contact 
-For any questions or inquiries, please contact Ozgur Guler at [ozgur.guler1@gmail.com](mailto:ozgur.guler1@gmail.com).
-Connect with me: \
+For any questions or inquiries, please contact Ozgur Guler at [ozgur.guler1@gmail.com](mailto:ozgur.guler1@gmail.com). \
+Connect with me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ozguler/)
