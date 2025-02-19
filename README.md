@@ -24,5 +24,5 @@ If you encounter any issues or have any questions, please feel free to open an i
 
 ## Contact 
 For any questions or inquiries, please contact Ozgur Guler at [ozgur.guler1@gmail.com](mailto:ozgur.guler1@gmail.com).
-Connect with me:
+Connect with me: \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ozguler/)
