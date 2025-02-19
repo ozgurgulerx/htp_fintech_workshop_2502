@@ -13,10 +13,12 @@ In this session, we’ll implement an **agentic customer support (CS) workflow**
 ✅ **Azure Data Stores**  
 ✅ **External APIs**  
 ✅ **AI Tools & Multi-Agent Systems**  
+✅ **Azure OpenAI real-time API** 
 
 ---
 
 ## 🛠 Key Challenges in Deploying AI Workflows  
+We will touch upon the key challanges in deploying AI Automation including... \
 🔹 **Long-term memory & retrieval**  
 🔹 **Reliable execution & statefulness**  
 🔹 **Multi-agent coordination**  
@@ -24,4 +26,3 @@ In this session, we’ll implement an **agentic customer support (CS) workflow**
 
 ---
 
-This format **improves readability** and makes it **visually structured and engaging** while keeping it simple. 🚀 Let me know if you want more tweaks! 😃
