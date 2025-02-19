@@ -10,9 +10,14 @@
 [![Downloads](https://img.shields.io/github/downloads/ozgurgulerx/htp_fintech_workshop_2502/total)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/releases)
 [![Open Issues](https://img.shields.io/github/issues/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues)
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Open Issues](#Open-Issues)
+- [Contact](#contact)
 
+#Introduction
 
-## Open Issues
+## Open-Issues
 If you encounter any issues or have any questions, please feel free to open an issue on our [GitHub Issues page](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues).
 
 [![Open Issues](https://img.shields.io/github/issues/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues)
