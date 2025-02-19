@@ -25,4 +25,16 @@ We will touch upon the key challanges in deploying AI Automation including... \
 🔹 **AI UX considerations**  
 
 ---
+# 🚀 Next: Deploying Our Workflow with AutoGen  
+
+Now that we've explored AI automation, it's time to **deploy our workflow using AutoGen**. In this section, we'll:  
+
+✅ Set up AutoGen for **multi-agent orchestration**  
+✅ Implement a **customer support automation workflow**  
+✅ Leverage **Azure data stores & external APIs**  
+✅ Address **statefulness & execution reliability**  
+
+👉 **[Read the full guide on Deploying our dynamic CS Workflow with Autogen](./part1_autogen.md)**  
+
+
 
