@@ -1,4 +1,4 @@
-# FINTECH WORKSHOP PART 1 - Ozgur Guler 
+# AI Frontier Labs - FINTECH - Ozgur Guler 
 [![GitHub stars](https://img.shields.io/github/stars/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/network)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,7 +13,10 @@
 - [Open Issues](#Open-Issues)
 - [Contact](#contact)
 
-#Introduction
+## Introduction
+### Part 1: 
+### Part 2:
+
 
 ## Open-Issues
 If you encounter any issues or have any questions, please feel free to open an issue on our [GitHub Issues page](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues).
