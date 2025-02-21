@@ -20,9 +20,9 @@
 
 ### [Part 1: Customer Support Call Center](./part1/part1_main.md)
    1. **AI AUTOMATION with AUTOGEN**
-     - [Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)
-     - [AutoGen Basics](./part1/part1_autogen_basics.md)
-     - [AutoGen Advanced](./part1/part1_autogen_advanced.md)
+     - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
+     - **[AutoGen Basics](./part1/part1_autogen_basics.md)**
+     - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
         - **[Multi-Agent Collaboration](#multi-agent-collaboration)**
         - **[Role-Based Agents & Delegation](#role-based-agents-delegation)**
         - **[Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)**
