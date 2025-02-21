@@ -14,7 +14,7 @@
    - **[Microsoft EMEA Digital Natives Frontier Labs Initiative]**
    - **[AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)**
 
-## [Part 1: Customer Support Call Center](./part1/part1_main.md)
+# [Part 1: Customer Support Call Center](./part1/part1_main.md)
 1. **AI AUTOMATION with AUTOGEN**   
    - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
    - **[AutoGen Basics](./part1/part1_autogen_basics.md)**
@@ -52,7 +52,7 @@
    - [Building the Use-Case with Real-Time API](#building-with-realtime-api-fintech)
 
 
-## [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
+# [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
 
 
    - **[End-to-End Workflow Implementations](#end-to-end-workflow-implementations)**
