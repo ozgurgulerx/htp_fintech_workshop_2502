@@ -19,7 +19,7 @@
    - [AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)
 
 ### [Part 1: Customer Support Call Center](./part1/part1_main.md)
-   1. **AI AUTOMATION with AUTOGEN**   
+1. **AI AUTOMATION with AUTOGEN**   
    - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
    - **[AutoGen Basics](./part1/part1_autogen_basics.md)**
    - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
@@ -28,30 +28,32 @@
      - [Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)
      - [Parallel Execution of Function Calls](#parallel-execution)
      - [Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)
-     - [Agent Evals](#agent-evals
+     - [Agent Evals](#agent-evals)
 
-   2. **REASONING MODELS as AGENT ORCHESTRATORS**
-     - [Reasoning Models and Agent Orchestrators through "AutoGen"]
-     - [Reasoning Models and Agent Orchestrators through "Generalization"]
-   3. **REAL-TIME API INTEGRATION**
-     - [Real-Time API basics]
-     - [Real-Time API Advanced Concepts] 
-     - [Integrating Real-Time API with AutoGen]
-   4. **BUILDING the CUSTOMER SUPPORT CALL CENTER - HCLS**
-    - [Detailing the use-case]
-    - [Data Integrations]
-     -[Cosmosdb PostGreSQL Integration]
-     -[GraphRAG Integration for the selected domain]
-    - [Building the use-case with AutoGen]
-    - [Building the use-case with Real-Time API]
+2. **REASONING MODELS as AGENT ORCHESTRATORS**
+   - [Reasoning Models and Agent Orchestrators through "AutoGen"](#reasoning-models-autogen)
+   - [Reasoning Models and Agent Orchestrators through "Generalization"](#reasoning-models-generalization)
 
-    5. **BUILDING the CUSTOMER SUPPORT CALL CENTER - FINTECH**
-    - [Detailing the use-case]
-    - [Data Integrations]
-     -[Cosmosdb PostGreSQL Integration]
-     -[GraphRAG Integration for the selected domain]
-    - [Building the use-case with AutoGen]
-    - [Building the use-case with Real-Time API]
+3. **REAL-TIME API INTEGRATION**
+   - [Real-Time API Basics](#real-time-api-basics)
+   - [Real-Time API Advanced Concepts](#real-time-api-advanced)
+   - [Integrating Real-Time API with AutoGen](#integrating-real-time-api-autogen)
+
+4. **BUILDING the CUSTOMER SUPPORT CALL CENTER - HCLS**
+   - [Detailing the Use-Case](#detailing-use-case-hcls)
+   - **Data Integrations**
+     - [CosmosDB PostgreSQL Integration](#cosmosdb-postgresql-hcls)
+     - [GraphRAG Integration for the Selected Domain](#graphrag-hcls)
+   - [Building the Use-Case with AutoGen](#building-with-autogen-hcls)
+   - [Building the Use-Case with Real-Time API](#building-with-realtime-api-hcls)
+
+5. **BUILDING the CUSTOMER SUPPORT CALL CENTER - FINTECH**
+   - [Detailing the Use-Case](#detailing-use-case-fintech)
+   - **Data Integrations**
+     - [CosmosDB PostgreSQL Integration](#cosmosdb-postgresql-fintech)
+     - [GraphRAG Integration for the Selected Domain](#graphrag-fintech)
+   - [Building the Use-Case with AutoGen](#building-with-autogen-fintech)
+   - [Building the Use-Case with Real-Time API](#building-with-realtime-api-fintech)
 
 
 ### [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
