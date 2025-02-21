@@ -30,7 +30,7 @@
    - [Reasoning Models and Agent Orchestrators through "AutoGen"](#reasoning-models-autogen)
    - [Reasoning Models and Agent Orchestrators through "Generalization"](#reasoning-models-generalization)
 
-3. **REAL-TIME API INTEGRATION**
+3. **AZURE OPENAI REAL-TIME API INTEGRATION**
    - [Real-Time API Basics](#real-time-api-basics)
    - [Real-Time API Advanced Concepts](#real-time-api-advanced)
    - [Integrating Real-Time API with AutoGen](#integrating-real-time-api-autogen)
@@ -51,6 +51,7 @@
    - [Building the Use-Case with AutoGen](#building-with-autogen-fintech)
    - [Building the Use-Case with Real-Time API](#building-with-realtime-api-fintech)
 
+--
 
 # [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
 
