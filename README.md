@@ -28,15 +28,20 @@
         - **[Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)**
         - **[Parallel Execution of Function Calls](#parallel-execution)**
         - **[Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)**
-     - [Reasoning Models as Agent Orchestrators]
+        - **[Agent Evals]
+   - [Reasoning Models as Agent Orchestrators]
+    - [Reasoning Models and Agent Orchestrators through "Generalization"]
    - [Real-Time API Integration](#real-time-api-integration)
      - [Real-Time API basics]
-     - [Real-Time API Advanced Concepts]
-        - 
+     - [Real-Time API Advanced Concepts] 
      - [Integrating Real-Time API with AutoGen]
    - [Building the vertical Customer Support Use Case]
-     - [Building the vertical Customer Support Use Case]
-
+    - [Detailing the use-case]
+    - [Data Integrations]
+     -[PostGreSQL Integration]
+     -[GraphRAG Integration for the selected domain]
+    - [Building the use-case with AutoGen]
+    - [Building the use-case with Real-Time API]
 
 
 ### **3. [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
