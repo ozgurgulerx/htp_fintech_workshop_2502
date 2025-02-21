@@ -4,3 +4,4 @@ autogen-ext[azure]
 autogen-ext[openai]
 ipykernel
 python-dotenv
+pydantic
