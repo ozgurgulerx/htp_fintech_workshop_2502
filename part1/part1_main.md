@@ -27,7 +27,7 @@ Below is a step-by-step guide summary of what we will be building...
 🔹 **Agent Evals**
 
  
-👉 **[Read the full guide on Deploying our dynamic CS Workflow with Autogen](./part1_autogen.ipynb)**  
+👉 **[Read the full guide on Deploying our dynamic CS Workflow with Autogen](./part1_autogen_introduction.md)**  
 
 
 
