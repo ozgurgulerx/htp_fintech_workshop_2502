@@ -19,7 +19,7 @@
    - [AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)
 
 ### [Part 1: Customer Support Call Center](./part1/part1_main.md)
-   - **AI Automation with AutoGen**
+   1. **AI AUTOMATION with AUTOGEN**
      - [Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)
      - [AutoGen Basics](./part1/part1_autogen_basics.md)
      - [AutoGen Advanced](./part1/part1_autogen_advanced.md)
@@ -29,22 +29,31 @@
         - **[Parallel Execution of Function Calls](#parallel-execution)**
         - **[Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)**
         - **[Agent Evals]
-   - [Reasoning Models as Agent Orchestrators]
+   2. **REASONING MODELS as AGENT ORCHESTRATORS**
+     - [Reasoning Models and Agent Orchestrators through "AutoGen"]
     - [Reasoning Models and Agent Orchestrators through "Generalization"]
-   - [Real-Time API Integration](#real-time-api-integration)
+   3. **REAL-TIME API INTEGRATION**
      - [Real-Time API basics]
      - [Real-Time API Advanced Concepts] 
      - [Integrating Real-Time API with AutoGen]
-   - [Building the vertical Customer Support Use Case]
+   4. **BUILDING the CUSTOMER SUPPORT CALL CENTER - HCLS**
     - [Detailing the use-case]
     - [Data Integrations]
-     -[PostGreSQL Integration]
+     -[Cosmosdb PostGreSQL Integration]
+     -[GraphRAG Integration for the selected domain]
+    - [Building the use-case with AutoGen]
+    - [Building the use-case with Real-Time API]
+
+    5. **BUILDING the CUSTOMER SUPPORT CALL CENTER - FINTECH**
+    - [Detailing the use-case]
+    - [Data Integrations]
+     -[Cosmosdb PostGreSQL Integration]
      -[GraphRAG Integration for the selected domain]
     - [Building the use-case with AutoGen]
     - [Building the use-case with Real-Time API]
 
 
-### **3. [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
+### [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
 
 
    - **[End-to-End Workflow Implementations](#end-to-end-workflow-implementations)**
