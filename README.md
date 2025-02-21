@@ -13,20 +13,35 @@
 ### **[Introduction](#introduction)**
    - **[AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)**
 
-###  **[Part 1: Customer Support Call Center](#part-1-getting-up-to-speed-with-autogen)**
-   - **[AI Automation with AutoGen] 
-    - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
-    - **[AutoGen Basics](./part1/part1_autogen_basics.md)**  
-    - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
-    - **[Reasoning Models as Agent Orchestrators](./)**
-    - **[Real-Time API Integration](#real-time-api-integration)**  
+## Table of Contents
+
+### [Introduction](#introduction)
+   - [AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)
+
+### [Part 1: Customer Support Call Center](./part1/part1_main.md)
+   - **AI Automation with AutoGen**
+     - [Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)
+     - [AutoGen Basics](./part1/part1_autogen_basics.md)
+     - [AutoGen Advanced](./part1/part1_autogen_advanced.md)
+        - **[Multi-Agent Collaboration](#multi-agent-collaboration)**
+        - **[Role-Based Agents & Delegation](#role-based-agents-delegation)**
+        - **[Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)**
+        - **[Parallel Execution of Function Calls](#parallel-execution)**
+        - **[Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)**
+     - [Reasoning Models as Agent Orchestrators]
+   - [Real-Time API Integration](#real-time-api-integration)
+     - [Real-Time API basics]
+     - [Real-Time API Advanced Concepts]
+        - 
+     - [Integrating Real-Time API with AutoGen]
+   - [Building the vertical Customer Support Use Case]
+     - [Building the vertical Customer Support Use Case]
+
+
 
 ### **3. [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
-   - **[Multi-Agent Collaboration](#multi-agent-collaboration)**
-   - **[Role-Based Agents & Delegation](#role-based-agents-delegation)**
-   - **[Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)**
-   - **[Parallel Execution of Function Calls](#parallel-execution)**
-   - **[Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)**
+
+
    - **[End-to-End Workflow Implementations](#end-to-end-workflow-implementations)**
      - **[Fintech Use Case](#fintech-use-case)**
      - **[HCLS & Insurance Use Case](#hcls-insurance-use-case)**  
