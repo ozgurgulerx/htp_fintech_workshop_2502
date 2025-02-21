@@ -8,15 +8,11 @@
 [![Downloads](https://img.shields.io/github/downloads/ozgurgulerx/htp_fintech_workshop_2502/total)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/releases)
 [![Open Issues](https://img.shields.io/github/issues/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues)
 
-## Table of Contents
+# Table of Contents
 
-### **[Introduction](#introduction)**
+## **[Introduction](#introduction)**
+   - **[Microsoft EMEA Digital Natives Frontier Labs Initiative]**
    - **[AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)**
-
-## Table of Contents
-
-### [Introduction](#introduction)
-   - [AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)
 
 ## [Part 1: Customer Support Call Center](./part1/part1_main.md)
 1. **AI AUTOMATION with AUTOGEN**   
