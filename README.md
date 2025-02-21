@@ -53,9 +53,7 @@
 
 --
 
-# [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
-
-
+# [Part 2: Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
    - **[End-to-End Workflow Implementations](#end-to-end-workflow-implementations)**
      - **[Fintech Use Case](#fintech-use-case)**
      - **[HCLS & Insurance Use Case](#hcls-insurance-use-case)**  
