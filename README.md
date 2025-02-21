@@ -19,7 +19,7 @@
 ## Introduction
 This workshop is designed for FinTech AI builders to explore the latest AI capabilities on Azure to address FinTech-specific challenges and implement emerging AI use-cases.
 
-Workshop consists of two parts:
+Workshop consists of two parts: \
 🔹 [Part 1: Horizontal GenAI Solutions - AI-Driven Customer Support](./part1/part1_main.md) \
 We’ll build a fully functional AI-powered customer support system using OpenAI’s real-time APIs, database integrations, and other key components. 
 This will give attendees hands-on experience in implementing conversational AI solutions that enhance customer interactions.
