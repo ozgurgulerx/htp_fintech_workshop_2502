@@ -31,7 +31,7 @@
         - **[Agent Evals]
    2. **REASONING MODELS as AGENT ORCHESTRATORS**
      - [Reasoning Models and Agent Orchestrators through "AutoGen"]
-    - [Reasoning Models and Agent Orchestrators through "Generalization"]
+     - [Reasoning Models and Agent Orchestrators through "Generalization"]
    3. **REAL-TIME API INTEGRATION**
      - [Real-Time API basics]
      - [Real-Time API Advanced Concepts] 
