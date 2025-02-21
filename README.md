@@ -11,7 +11,11 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Part 1: Horizontal GenAI Solutions](#part-1-horizontal-genai-solutions)
+In Part 1, we will understand how to automate complex workflows with AutoGen and Reasoning LLM's. 
+
 - [Part 2: Emerging FinTech GenAI Use Cases](#part-2-emerging-fintech-genai-use-cases)
+Part 2 focuses on the novel use cases and implementations of GenAI in FinTech.
+
 - [Open Issues](#Open-Issues)
 - [Contact](#contact)
 
