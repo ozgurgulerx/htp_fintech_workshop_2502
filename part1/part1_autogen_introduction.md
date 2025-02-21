@@ -33,3 +33,8 @@ Let's work backwards from the needs for complex AI Automation and see how AutoGe
 --
 ## AutoGen - The "Why"? 
 [Burayi AutoGen'i tanidikca dolduracagiz!!!]
+
+
+
+
+👉 [You can now proceed with coding](./part1_autogen_codex.ipynb)
