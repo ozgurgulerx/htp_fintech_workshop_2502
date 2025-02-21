@@ -15,7 +15,8 @@ We will take on FinTech specific "Customer Support" use-cases with voice UI inte
 
 Below is a step-by-step guide summary of what we will be building...
 
-## 🔧 PartI -  Workshop Overview - Horizontal GenAI Solutions for Customer Support  
+We will cover the below in Part 1 while implementing a "horizontal" GenAI use-case such as a customer support agent...
+
 🔹 **Introduction to AutoGen - Setup automate simple use-cases** \
 🔹 **RealTime API Integration** \
 🔹 **Azure Data Store Integrations** \
@@ -25,6 +26,8 @@ Below is a step-by-step guide summary of what we will be building...
 🔹 **AI UX considerations**  
 🔹 **AutoGen DSPy & Semanic Kernel - why?** \
 🔹 **Agent Evals**
+
+
 
  
 👉 **[Read the full guide on Deploying our dynamic CS Workflow with Autogen](./part1_autogen_introduction.md)**  
