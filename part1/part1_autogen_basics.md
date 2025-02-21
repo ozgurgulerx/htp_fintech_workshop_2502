@@ -42,4 +42,5 @@ Let's work backwards from the needs for complex AI Automation and see how AutoGe
 
 
 
-👉 [You can now proceed with coding](./part1_autogen_codex.ipynb)
+👉 [You can now proceed with basic auto-gen capabilities](./part1_autogen_basics.md)
+👉 [...or jump straight into AutoGen's advanced capabilities](./part1_autogen_advanced.md)
