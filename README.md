@@ -21,12 +21,12 @@
      - [Introduction to AutoGen](./part1/part1_autogen_basics.md)
      - [Start building with AutoGen & AzureOpenAI](./part1/notebooks/part1_autogen_basics.ipynb)
    - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
-     - [Multi-Agent Collaboration](#multi-agent-collaboration)
-     - [Role-Based Agents & Delegation](#role-based-agents-delegation)
-     - [Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)
-     - [Parallel Execution of Function Calls](#parallel-execution)
-     - [Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)
-     - [Agent Evals](#agent-evals)
+     - [Multi-Agent Collaboration](./part1/notebooks/part1_autogen_advanced_multi_agent_collaboration.ipynb)
+     - [Role-Based Agents & Delegation](./part1/notebooks/part1_autogen_advanced_role_based_agents.ipynb)
+     - [Custom Routing & Multi-Agent Decision-Making](./part1/notebooks/part1_autogen_advanced_custom_routing.ipynb)
+     - [Parallel Execution of Function Calls](./part1/notebooks/part1_autogen_advanced_parallel_execution.ipynb)
+     - [Agent Autonomy & Self-Prompting](./part1/notebooks/part1_autogen_advanced_agent_autonomy.ipynb)
+     - [Agent Evals](./part1/notebooks/part1_autogen_agent_evals.ipynb)
 
 2. **REASONING MODELS as AGENT ORCHESTRATORS**
    - [Reasoning Models and Agent Orchestrators through "AutoGen"](#reasoning-models-autogen)
