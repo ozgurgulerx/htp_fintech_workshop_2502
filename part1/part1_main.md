@@ -4,11 +4,11 @@ LLMs have matured to **orchestrate complex workflows**, leveraging **APIs, code,
 
 
 ## 🔧 PartI -  Workshop Overview - Horizontal GenAI Solutions for Customer Support  
-🔹 **Introduction to AutoGen - Setup automate simple use-cases** 
-🔹 **RealTime API Integration**
-🔹 **Azure Data Store Integrations**
-🔹 **Agent Memory - Long-term memory & retrieval**  
-🔹 **Reliable execution & statefulness**  
+🔹 **Introduction to AutoGen - Setup automate simple use-cases** \
+🔹 **RealTime API Integration** \
+🔹 **Azure Data Store Integrations** \
+🔹 **Agent Memory - Long-term memory & retrieval** \ 
+🔹 **Reliable execution & statefulness** \
 🔹 **Multi-agent coordination**  
 🔹 **AI UX considerations**  
 🔹 **AutoGen DSPy & Semanic Kernel - why?** 
