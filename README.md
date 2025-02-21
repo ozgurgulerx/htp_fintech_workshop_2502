@@ -9,12 +9,28 @@
 [![Open Issues](https://img.shields.io/github/issues/ozgurgulerx/htp_fintech_workshop_2502)](https://github.com/ozgurgulerx/htp_fintech_workshop_2502/issues)
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Part 1: Horizontal GenAI Solutions in DN's](#part-1-horizontal-genai-solutions)
-- [Part 2: Emerging GenAI Vertical Use Cases](#part-2-emerging-fintech-genai-use-cases)
 
-- [Open Issues](#Open-Issues)
-- [Contact](#contact)
+### **[Introduction](#introduction)**
+   - **[AI Automation – Challenges & Opportunities](#ai-automation-challenges-opportunities)**
+
+###  **[Part 1: Customer Support Call Center](#part-1-getting-up-to-speed-with-autogen)**
+   - **[AI Automation with AutoGen] 
+    - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
+    - **[AutoGen Basics](./part1/part1_autogen_basics.md)**  
+    - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
+    - **[Reasoning Models as Agent Orchestrators](./)**
+    - **[Real-Time API Integration](#real-time-api-integration)**  
+
+### **3. [Part 2: Advanced AutoGen Capabilities & Vertical Use Cases](#part-2-advanced-autogen-capabilities)**
+   - **[Multi-Agent Collaboration](#multi-agent-collaboration)**
+   - **[Role-Based Agents & Delegation](#role-based-agents-delegation)**
+   - **[Custom Routing & Multi-Agent Decision-Making](#custom-routing-decision-making)**
+   - **[Parallel Execution of Function Calls](#parallel-execution)**
+   - **[Agent Autonomy & Self-Prompting](#agent-autonomy-self-prompting)**
+   - **[End-to-End Workflow Implementations](#end-to-end-workflow-implementations)**
+     - **[Fintech Use Case](#fintech-use-case)**
+     - **[HCLS & Insurance Use Case](#hcls-insurance-use-case)**  
+
 
 ## Introduction
 This workshop is designed for FinTech AI builders to explore the latest AI capabilities on Azure to address FinTech-specific challenges and implement emerging AI use-cases.
