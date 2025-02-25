@@ -33,8 +33,8 @@
    - [Reasoning Models and Agent Orchestrators through "Generalization"](#reasoning-models-generalization)
 
 3. **AZURE OPENAI REAL-TIME API INTEGRATION**
-   - [Real-Time API Basics - X](./part1/notebooks/part1_realtime_api.ipynb)
-   - [Real-Time API Advanced Concepts](#real-time-api-advanced)
+   - [Real-Time API Basics - X](./part1/notebooks/part1_realtime_api_basics.ipynb)
+   - [Real-Time API Advanced Concepts - X](./part1/notebooks/part1_realtime_api_advanced.ipynb)
    - [Integrating Real-Time API with AutoGen](#integrating-real-time-api-autogen)
 
 4. **BUILDING the CUSTOMER SUPPORT CALL CENTER - HCLS**
