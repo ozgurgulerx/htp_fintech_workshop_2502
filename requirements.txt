@@ -5,3 +5,6 @@ autogen-ext[openai]
 ipykernel
 python-dotenv
 pydantic
+websockets 
+asyncio
+nest_asyncio
