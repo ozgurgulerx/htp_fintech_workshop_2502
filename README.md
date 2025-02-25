@@ -33,7 +33,7 @@
    - [Reasoning Models and Agent Orchestrators through "Generalization"](#reasoning-models-generalization)
 
 3. **AZURE OPENAI REAL-TIME API INTEGRATION**
-   - [Real-Time API Basics](#real-time-api-basics)
+   - [Real-Time API Basics](./part1/notebooks/part1_realtime_api.ipynb)
    - [Real-Time API Advanced Concepts](#real-time-api-advanced)
    - [Integrating Real-Time API with AutoGen](#integrating-real-time-api-autogen)
 
