@@ -11,3 +11,4 @@ nest_asyncio
 numpy
 IPython
 pyaudio
+sounddevice
