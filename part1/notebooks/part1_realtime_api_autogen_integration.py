@@ -127,12 +127,6 @@ class AudioProcessor:
 ##############################
 
 class ConversationSystem:
-    """
-    - Connects to Azure Real-Time for 2-way audio streaming.
-    - On receiving recognized text from the user, we hand it off to AutoGenOrchestrator.
-    - Then we take AutoGen's text response and request Azure to produce spoken audio output.
-    """
-
     def __init__(self, orchestrator: AutoGenOrchestrator):
         load_dotenv()
         self.api_key = os.getenv("AZURE_OPENAI_API_KEY")
@@ -149,7 +143,14 @@ class ConversationSystem:
         self.streams = {'input': None, 'output': None}
         self.orchestrator = orchestrator
 
+    def audio_callback(self, indata, frames, time, status):
+        """Handles live microphone input and buffers audio frames."""
+        if status:
+            print(f"Audio input error: {status}")
+        self.audio_processor.process_audio(indata)
+
     async def setup_audio(self):
+        """Set up input and output audio streams."""
         import sounddevice as sd
         self.streams['output'] = sd.OutputStream(
             samplerate=24000, channels=1, dtype=np.int16
@@ -160,18 +161,6 @@ class ConversationSystem:
         )
         for stream in self.streams.values():
             stream.start()
-
-    async def send_audio_to_azure(self, websocket, audio_data: bytes):
-        audio_b64 = base64.b64encode(audio_data).decode('utf-8')
-        await websocket.send(json.dumps({
-            "type": "input_audio_buffer.append",
-            "audio": audio_b64
-        }))
-        await websocket.send(json.dumps({"type": "input_audio_buffer.commit"}))
-        await websocket.send(json.dumps({
-            "type": "response.create",
-            "response": {"modalities": ["audio", "text"]}
-        }))
 
     async def run(self):
         """Main conversation loop: set up audio, connect to Real-Time, and wait for user speech."""
@@ -187,6 +176,7 @@ class ConversationSystem:
                     await self.send_audio_to_azure(ws, audio_data)
 
                 await asyncio.sleep(0.05)
+
 
 
 ##############################
