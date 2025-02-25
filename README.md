@@ -18,10 +18,10 @@
 1. **AI AUTOMATION with AUTOGEN**   
    - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
    - **[AutoGen Basics](./part1/part1_autogen_basics.md)**
-     - [Introduction to AutoGen](./part1/part1_autogen_basics.md)
-     - [Start building with AutoGen & AzureOpenAI](./part1/notebooks/part1_autogen_basics.ipynb)
-   - **[AutoGen Advanced](./part1/part1_autogen_advanced.md)**
-     - [Multi-Agent Collaboration](./part1/notebooks/part1_autogen_advanced_multi_agent_collaboration.ipynb)
+     - [Introduction to AutoGen - X](./part1/part1_autogen_basics.md)
+     - [Start building with AutoGen & AzureOpenAI - X](./part1/notebooks/part1_autogen_basics.ipynb)
+   - **[AutoGen Advanced - X](./part1/part1_autogen_advanced.md)**
+     - [Multi-Agent Collaboration - X](./part1/notebooks/part1_autogen_advanced_multi_agent_collaboration.ipynb)
      - [Role-Based Agents & Delegation](./part1/notebooks/part1_autogen_advanced_role_based_agents.ipynb)
      - [Custom Routing & Multi-Agent Decision-Making](./part1/notebooks/part1_autogen_advanced_custom_routing.ipynb)
      - [Parallel Execution of Function Calls](./part1/notebooks/part1_autogen_advanced_parallel_execution.ipynb)
@@ -35,7 +35,7 @@
 3. **AZURE OPENAI REAL-TIME API INTEGRATION**
    - [Real-Time API Basics - X](./part1/notebooks/part1_realtime_api_basics.ipynb)
    - [Real-Time API Advanced Concepts - X](./part1/notebooks/part1_realtime_api_advanced.ipynb)
-   - [Integrating Real-Time API with AutoGen](#integrating-real-time-api-autogen)
+   - [Integrating Real-Time API with AutoGen](./part1/notebooks/part1_realtime_api_autogen_integration.ipynb)
 
 4. **BUILDING the CUSTOMER SUPPORT CALL CENTER - HCLS**
    - [Detailing the Use-Case](#detailing-use-case-hcls)
