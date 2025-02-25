@@ -16,8 +16,8 @@
 
 # [Part 1: Customer Support Call Center](./part1/part1_main.md)
 1. **AI AUTOMATION with AUTOGEN**   
-   - **[Environment Setup](./part1/notebooks/part1_environment_setup.ipynb)**
-   - **[AutoGen Basics](./part1/part1_autogen_basics.md)**
+   - **[Environment Setup - X](./part1/notebooks/part1_environment_setup.ipynb)**
+   - **[AutoGen Basics - X](./part1/part1_autogen_basics.md)**
      - [Introduction to AutoGen - X](./part1/part1_autogen_basics.md)
      - [Start building with AutoGen & AzureOpenAI - X](./part1/notebooks/part1_autogen_basics.ipynb)
    - **[AutoGen Advanced - X](./part1/part1_autogen_advanced.md)**
