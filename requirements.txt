@@ -8,3 +8,6 @@ pydantic
 websockets 
 asyncio
 nest_asyncio
+numpy
+IPython
+pyaudio
